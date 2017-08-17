@@ -1,5 +1,5 @@
 {
-  "name": "generator-bufferapp",
+  "name": "@bufferapp/generator-bufferapp",
   "version": "0.1.0",
   "description": "",
   "homepage": "https://github.com/bufferapp/generator-package",
