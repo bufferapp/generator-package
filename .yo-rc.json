@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Mike San Román",
+      "authorEmail": "mike@msanroman.io",
+      "authorUrl": "http://msanroman.io"
+    }
+  }
+}
