@@ -1,5 +1,4 @@
-# generator-bufferapp [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
-> 
+# generator-bufferapp [![NPM version][npm-image]][npm-url] 
 
 ## Installation
 
@@ -7,32 +6,19 @@ First, install [Yeoman](http://yeoman.io) and generator-bufferapp using [npm](ht
 
 ```bash
 npm install -g yo
-npm install -g generator-bufferapp
+npm install -g @bufferapp/generator-bufferapp
 ```
 
-Then generate your new project:
+Then generate your new package with:
 
 ```bash
-yo bufferapp
+yo bufferapp:package
 ```
-
-## Getting To Know Yeoman
-
- * Yeoman has a heart of gold.
- * Yeoman is a person with feelings and opinions, but is very easy to work with.
- * Yeoman can be too opinionated at times but is easily convinced not to be.
- * Feel free to [learn more about Yeoman](http://yeoman.io/).
 
 ## License
 
-MIT © [Mike San Román](http://msanroman.io)
+MIT © [buffer](https://buffer.com)
 
 
-[npm-image]: https://badge.fury.io/js/generator-bufferapp.svg
-[npm-url]: https://npmjs.org/package/generator-bufferapp
-[travis-image]: https://travis-ci.org/bufferapp/generator-bufferapp.svg?branch=master
-[travis-url]: https://travis-ci.org/bufferapp/generator-bufferapp
-[daviddm-image]: https://david-dm.org/bufferapp/generator-bufferapp.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/bufferapp/generator-bufferapp
-[coveralls-image]: https://coveralls.io/repos/bufferapp/generator-bufferapp/badge.svg
-[coveralls-url]: https://coveralls.io/r/bufferapp/generator-bufferapp
+[npm-image]: https://badge.fury.io/js/@bufferapp/generator-bufferapp.svg
+[npm-url]: https://npmjs.org/package/@bufferapp/generator-bufferapp
