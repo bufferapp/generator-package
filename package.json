@@ -1,8 +1,8 @@
 {
   "name": "generator-bufferapp",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "",
-  "homepage": "https://buffer.com",
+  "homepage": "https://github.com/bufferapp/generator-package",
   "author": {
     "name": "Mike San Román",
     "email": "mike@msanroman.io",
@@ -46,6 +46,6 @@
       "node": true
     }
   },
-  "repository": "bufferapp/generator-bufferapp",
+  "repository": "https://github.com/bufferapp/generator-package",
   "license": "MIT"
 }
