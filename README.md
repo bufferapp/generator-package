@@ -20,5 +20,5 @@ yo bufferapp:package
 MIT © [buffer](https://buffer.com)
 
 
-[npm-image]: https://badge.fury.io/js/@bufferapp/generator-bufferapp.svg
+[npm-image]: https://badge.fury.io/js/%40bufferapp%2Fgenerator-bufferapp.svg
 [npm-url]: https://npmjs.org/package/@bufferapp/generator-bufferapp
