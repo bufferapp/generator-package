@@ -1,7 +1,7 @@
 import React from 'react';
 import { mount } from 'enzyme';
 import { Provider } from 'react-redux';
-import <%= containerName %>, {
+import <%= containerName %>Container, {
   reducer,
   actions,
   actionTypes,
@@ -16,7 +16,7 @@ const storeFake = state => ({
   getState: () => ({ ...state }),
 });
 
-describe('<%= containerName %>', () => {
+describe('<%= containerName %>Container', () => {
   it('should render', () => {
     const store = storeFake({
     });
